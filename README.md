@@ -16,9 +16,9 @@
 - 📜 JavaScript
 
 ### GitHub Stats
-[![Valentijn's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valentijn123&theme=radical)](https://github.com/valentijn123)
+[![Valentijn's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valentijn123&theme=radical&count_private=true&include_all_commits=true)](https://github.com/valentijn123)
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentijn123&layout=compact&theme=radical)](https://github.com/valentijn123)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentijn123&layout=compact&theme=radical&count_private=true)](https://github.com/valentijn123)
 
 Feel free to reach out if you'd like to collaborate on a project!
 
