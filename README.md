@@ -3,7 +3,6 @@
 ### About Me
 - 🧑‍💻 19-year-old developer passionate about coding
 - 🎮 Experienced FiveM developer with extensive Lua knowledge
-- 🚀 Currently working on ComplexRP, a FiveM server
 - ⚛️ Proficient in React.js
 - 🌱 Currently learning Svelte and Next.js
 - 🔒 Focusing on improving cybersecurity skills
