@@ -1,7 +1,7 @@
 ## Hi there, I'm Valentijn 👋
 
 ### About Me
-- 🧑‍💻 19-year-old developer passionate about coding
+- 🧑‍💻 20-year-old developer passionate about coding
 - 🎮 Experienced FiveM developer with extensive Lua knowledge
 - ⚛️ Proficient in React.js
 - 🌱 Currently learning Svelte and Next.js
